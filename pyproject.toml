@@ -4,7 +4,7 @@ version = "1.0.0"
 description = "A Python tool for cracking JWT HS256 signature keys using dictionary attacks and brute force methods"
 authors = [{name = "JWT Cracker Team"}]
 readme = "README.md"
-requires-python = ">=3.6"
+requires-python = ">=3.9"
 dependencies = [
     "PyJWT>=2.8.0",
 ]
